@@ -1,5 +1,5 @@
 # Movie Industry Data Analysis Project
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/44aeb76e-aa4c-46cd-855a-2ab057b6a98b)
 
 ## Overview
 This project uses Python to analyze a movie industry dataset, focusing on exploring the correlations between various features and movie revenue. The project leverages popular libraries such as Pandas, Seaborn, and Matplotlib to clean, manipulate, and visualize the data.
